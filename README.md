@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi, I'm Stephen 👋
 
-<!--
-**StephenCavender/StephenCavender** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer passionate about learning new tech and sharing what I've learned. I've been focused on front-end but am looking to break into back-end technologies and become a full-stack engineer.
 
-Here are some ideas to get you started:
+Find me at these places:
+* [My blog](https://dev.cavender.io/)
+* [Dev.to](https://dev.to/stephencavender)
+* [GitLab](https://gitlab.com/stephen.cavender)
+* [LinkedIn](https://linkedin.com/in/stephencavender)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Check out my skills on
+* [LeetCode](https://leetcode.com/stephencavender/)
+* [CodeWars](https://www.codewars.com/users/StephenCavender)
+* [HackerRank](https://www.hackerrank.com/stephen_cavender)
+
+[Buy Me A Coffee](https://www.buymeacoffee.com/cavender)
