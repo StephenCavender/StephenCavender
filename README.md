@@ -13,4 +13,4 @@ Check out my skills on
 * [CodeWars](https://www.codewars.com/users/StephenCavender)
 * [HackerRank](https://www.hackerrank.com/stephen_cavender)
 
-[Buy Me A Coffee](https://www.buymeacoffee.com/cavender)
+[Buy Me A Beer](https://www.buymeacoffee.com/cavender)
