@@ -1,6 +1,6 @@
 ### Hi, I'm Stephen 👋
 
-I'm a software engineer passionate about learning new tech and sharing what I've learned. I've been focused on front-end but am looking to break into back-end technologies and become a full-stack engineer.
+I'm a full-stack engineer passionate about learning new tech and sharing what I've learned.
 
 Find me at these places:
 * [My blog](https://dev.cavender.io/)
