@@ -1,0 +1,22 @@
+{
+  "name": "stephencavender",
+  "version": "1.0.0",
+  "description": "GitHub Profile Repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StephenCavender/StephenCavender.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/StephenCavender/StephenCavender/issues"
+  },
+  "homepage": "https://github.com/StephenCavender/StephenCavender#readme",
+  "dependencies": {
+    "mustache": "^4.2.0"
+  }
+}
