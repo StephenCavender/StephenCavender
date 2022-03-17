@@ -12,7 +12,7 @@
 <div style="display: flex;justify-content: center">
   <a href="https://dev.cavender.io/">Blog</a>&nbsp;|&nbsp;
   <a href="https://dev.cavender.io/portfolio">Portfolio</a>
-</div><br/>
+</div>
 
 <p><h3>Tech I work with:</h3></p>
 <p>
@@ -58,7 +58,7 @@
   <img
     alt="i18n"
     src="https://img.shields.io/badge/i18n-333"/>
-</p><br/>
+</p>
 
 <p><h3>Tools I use:</h3></p>
 <p>
@@ -98,7 +98,7 @@
   <img
     alt="insomnia"
     src="https://img.shields.io/badge/insomnia-333?logo=insomnia"/>
-</p><br/>
+</p>
 
 <p><h3>My Latest Posts</h3></p>
 <ul>
