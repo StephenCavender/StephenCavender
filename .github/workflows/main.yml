@@ -2,7 +2,8 @@ name: Update README
 
 on:
   push:
-    branches: [ master ]
+    branches: 
+    - master
   schedule: # Run at midnight on Mondays
     - cron: '0 0 * * 1'
   workflow_dispatch:
