@@ -1,0 +1,36 @@
+name: Update README
+
+on:
+  push:
+    branches: [ master ]
+  schedule: # Run at midnight on Mondays
+    - cron: '0 0 * * 1'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js environment
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16.14.1'
+
+      - name: Install
+        run: yarn
+
+      - name: Generate README
+        run: node index
+
+      - name: GitHub Push
+        uses: ad-m/github-push-action@v0.6.0
+        
+      - name: Push
+        uses: mikeal/publish-to-github-action@1.0.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
