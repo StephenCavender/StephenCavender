@@ -37,9 +37,9 @@
 
 <p><h3>My Latest Posts</h3></p>
 <ul>
-    <li><a href="https://dev.cavender.io/2023/01/21/level-up-git-usage/"><strong>How I Leveled Up My Git Skills</strong></a></li>
-    <li><a href="https://dev.cavender.io/2021/04/10/react-native-svg/"><strong>React Native SVG Example</strong></a></li>
-    <li><a href="https://dev.cavender.io/2021/03/21/macos-openjdk-maintenance/"><strong>MacOS OpenJDK Maintenance</strong></a></li>
+    <li><a href="https://dev.cavender.io/posts/2023/01/21/level-up-git-usage/"><strong>How I Leveled Up My Git Skills</strong></a></li>
+    <li><a href="https://dev.cavender.io/posts/2021/04/10/react-native-svg/"><strong>React Native SVG Example</strong></a></li>
+    <li><a href="https://dev.cavender.io/posts/2021/03/21/macos-openjdk-maintenance/"><strong>MacOS OpenJDK Maintenance</strong></a></li>
 </ul><br/>
 
 <p>This README inspired by <a href="https://github.com/thmsgbrt">thmsgbrt</a> and <a href="https://github.com/sw-yx">swyx</a>
