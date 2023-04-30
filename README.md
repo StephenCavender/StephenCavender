@@ -1,13 +1,11 @@
 <img src="./banner.png" />
 <p><h1>Hi, I'm Steve</h1></p>
-<p>I am a full-stack engineer, app developer, and blogger.</p><br/>
 
 <div style="display:flex;justify-content:center">
-  <a href="https://dev.cavender.io/">Blog</a>&nbsp;|&nbsp;
-  <a href="https://dev.cavender.io/projects">Projects</a>
+  Check out my <a href="https://dev.cavender.io/">Site</a>
 </div>
 
-<p><h3>My Apps:</h3></p>
+<p><h3>My Projects:</h3></p>
 <ul>
   <li><a href="https://simpledex.cavender.io/">SimpleDex</a></li>
   <li><a href="https://gymbutler.cavender.io/">GymButler</a></li>
@@ -37,9 +35,9 @@
 
 <p><h3>My Latest Posts</h3></p>
 <ul>
-    <li><a href="https://dev.cavender.io/posts/2023/01/21/level-up-git-usage/"><strong>How I Leveled Up My Git Skills</strong></a></li>
-    <li><a href="https://dev.cavender.io/posts/2021/04/10/react-native-svg/"><strong>React Native SVG Example</strong></a></li>
-    <li><a href="https://dev.cavender.io/posts/2021/03/21/macos-openjdk-maintenance/"><strong>MacOS OpenJDK Maintenance</strong></a></li>
+    <li><a href="https://dev.cavender.io/posts/react-native-env/"><strong>React Native Environment Setup</strong></a></li>
+    <li><a href="https://dev.cavender.io/posts/react-native-svg/"><strong>React Native SVG Example</strong></a></li>
+    <li><a href="https://dev.cavender.io/posts/macos-openjdk-maintenance/"><strong>MacOS OpenJDK Maintenance</strong></a></li>
 </ul><br/>
 
 <p>This README inspired by <a href="https://github.com/thmsgbrt">thmsgbrt</a> and <a href="https://github.com/sw-yx">swyx</a>
