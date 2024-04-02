@@ -33,8 +33,11 @@
     src="https://img.shields.io/badge/express-333?logo=express"/>
 </p>
 
-<p><h3>My Latest Posts</h3></p>
+<p><h3>My Latest Articles</h3></p>
 <ul>
+    <li><a href="https://cavender.foo/blog/react-native-environment-setup"><strong>React Native Environment Setup</strong></a></li>
+    <li><a href="https://cavender.foo/blog/react-native-svg-example"><strong>React Native SVG Example</strong></a></li>
+    <li><a href="https://cavender.foo/blog/macos-openjdk-maintenance"><strong>MacOS OpenJDK Maintenance</strong></a></li>
 </ul><br/>
 
 <p>This README inspired by <a href="https://github.com/thmsgbrt">thmsgbrt</a> and <a href="https://github.com/sw-yx">swyx</a>
