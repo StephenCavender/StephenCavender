@@ -4,16 +4,16 @@ import Parser from "rss-parser";
 
 const MUSTACHE_MAIN_DIR = './main.mustache';
 
-const posts = [];
+const articles = [];
 const parser = new Parser();
 await (async () => {
-  const feed = await parser.parseURL('https://dev.cavender.io/feed.xml');
-  posts.push(...feed.items.slice(0, 3));
+  const feed = await parser.parseURL('https://cavender.foo/rss.xml');
+  articles.push(...feed.items.slice(0, 3));
 })();
 
 const DATA = {
   name: "Steve",
-  posts
+  articles
 }
 
 const generateReadme = () => {

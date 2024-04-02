@@ -2,7 +2,7 @@
 <p><h1>Hi, I'm Steve</h1></p>
 
 <div style="display:flex;justify-content:center">
-  Check out my <a href="https://dev.cavender.io/">Site</a>
+  Check out my <a href="https://cavender.foo/">Site</a>
 </div>
 
 <p><h3>My Projects:</h3></p>
@@ -35,9 +35,6 @@
 
 <p><h3>My Latest Posts</h3></p>
 <ul>
-    <li><a href="https://dev.cavender.io/posts/react-native-env/"><strong>React Native Environment Setup</strong></a></li>
-    <li><a href="https://dev.cavender.io/posts/react-native-svg/"><strong>React Native SVG Example</strong></a></li>
-    <li><a href="https://dev.cavender.io/posts/macos-openjdk-maintenance/"><strong>MacOS OpenJDK Maintenance</strong></a></li>
 </ul><br/>
 
 <p>This README inspired by <a href="https://github.com/thmsgbrt">thmsgbrt</a> and <a href="https://github.com/sw-yx">swyx</a>
