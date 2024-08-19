@@ -16,6 +16,6 @@
   "homepage": "https://github.com/StephenCavender/StephenCavender#readme",
   "dependencies": {
     "mustache": "^4.2.0",
-    "rss-parser": "^3.12.0"
+    "rss-parser": "^3.13.0"
   }
 }
