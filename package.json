@@ -5,7 +5,6 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "gen": "node index"
   },
   "repository": {
@@ -14,9 +13,6 @@
   },
   "author": "Stephen Cavender",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/StephenCavender/StephenCavender/issues"
-  },
   "homepage": "https://github.com/StephenCavender/StephenCavender#readme",
   "dependencies": {
     "mustache": "^4.2.0",
