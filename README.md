@@ -1,8 +1,8 @@
-<img src="./banner.png" />
+<img src="./banner.jpg" />
 <p><h1>Hi, I'm Steve</h1></p>
 
-<div style="display:flex;justify-content:center">
-  Check out my <a href="https://cavender.foo/">Site</a>
+<div>
+  Check out my <a href="https://cavender.foo/">Personal Site</a>
 </div>
 
 <p><h3>My Projects:</h3></p>
@@ -11,7 +11,7 @@
   <li><a href="https://gymbutler.cavender.io/">GymButler</a></li>
 </ul>
 
-<p><h3>Tech Stacks:</h3></p>
+<p><h3>Tech I Know:</h3></p>
 <p>
   <img
     alt="react"
@@ -21,7 +21,7 @@
     src="https://img.shields.io/badge/react_native-20232a?logo=react"/>
   <img
     alt="aws"
-    src="https://img.shields.io/badge/aws-232f3d?logo=amazonaws"/>
+    src="https://img.shields.io/badge/aws-232f3d?logo=amazonwebservices"/>
   <img
     alt="typescript"
     src="https://img.shields.io/badge/typescript-3278c3?logo=typescript&logoColor=fff"/>
@@ -35,8 +35,8 @@
 
 <p><h3>My Latest Articles</h3></p>
 <ul>
-    <li><a href="https://cavender.foo/blog/react-native-environment-setup"><strong>React Native Environment Setup</strong></a></li>
-    <li><a href="https://cavender.foo/blog/react-native-svg-example"><strong>React Native SVG Example</strong></a></li>
+    <li><a href="https://cavender.foo/blog/react-native-env"><strong>React Native Environment Setup</strong></a></li>
+    <li><a href="https://cavender.foo/blog/react-native-svg"><strong>React Native SVG Example</strong></a></li>
     <li><a href="https://cavender.foo/blog/macos-openjdk-maintenance"><strong>MacOS OpenJDK Maintenance</strong></a></li>
 </ul><br/>
 
