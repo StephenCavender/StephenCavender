@@ -23,6 +23,7 @@ const generateReadme = () => {
     }
     const output = Mustache.render(data.toString(), DATA);
     fs.writeFileSync("README.md", output);
+    process.exit(0);
   });
 };
 
