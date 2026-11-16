@@ -13,18 +13,16 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
-      - name: Setup Node.js environment
-        uses: actions/setup-node@v3
-        with:
-          node-version: '16.14.1'
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v2
 
       - name: Install
-        run: yarn
+        run: bun install --frozen-lockfile
 
       - name: Generate README
-        run: node index
+        run: bun index.js
         
       - name: Push
         uses: mikeal/publish-to-github-action@1.0.0
